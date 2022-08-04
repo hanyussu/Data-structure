@@ -9,9 +9,9 @@ The purpose of this project is to illustrate the concept of stack and queue
 2. queue (view it as a waiting line)
          FIFO (First in first out)
     2.1: enqueue
-
+        add item to the back of the queue
     2.2: dequeue
-
+        removes and returns the item at the front of the queue
 """
 class ArrayStack:
     def __init__(self):
